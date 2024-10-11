@@ -19,7 +19,7 @@ banner = f"""\033[1m {Fore.WHITE}
 ⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿⠄⣴⣿⣶⣄⠄⣴⣶⠄⢀⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄  █▄▄ █▀▄ █▄█ █░▀█ █▄▄ █▀█ ░█░   {Fore.CYAN}░█░ █▀█ █ ██▄ █▀░{Fore.WHITE}
 ⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁⠄⠄⠄  {Fore.RED}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{Fore.WHITE}
 ⠄⠄⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄⠄⠄⠄⠄    {Fore.MAGENTA}DEVELOPER {Fore.RED}: {Fore.WHITE}RetroPackets
-⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⢀⣠⣴    {Fore.MAGENTA}Improved {Fore.RED}: {Fore.WHITE}AnonCatalyst
+⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⢀⣠⣴    {Fore.MAGENTA}IMPROVED {Fore.RED}: {Fore.WHITE}AnonCatalyst
 ⣿⣿⣿⣶⣶⣮⣥⣒⠲⢮⣝⡿⣿⣿⡆⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⣠⣴⣿⣿⣿       
 """
 print (banner)
