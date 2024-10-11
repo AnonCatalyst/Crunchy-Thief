@@ -13,7 +13,7 @@ Crunchy Thief is a multi-threaded account checker designed to validate Crunchyro
 ## Usage
 1. Install required packages:
    ```bash
-   pip install fake_useragent colorama
+   pip install fake_useragent colorama requests --break-system-packages
 
 
 ## SETUP
