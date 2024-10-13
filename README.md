@@ -1,6 +1,8 @@
 
 # Crunchy Thief
 
+UPDATES-PLANNED: ``Development Paused``
+
 Crunchy Thief is a multi-threaded account checker designed to validate Crunchyroll account credentials. This tool reads email:password combinations from a specified file, attempts to authenticate them using the Crunchyroll API, and classifies the accounts as valid, free, or invalid.
 
 ## Features
